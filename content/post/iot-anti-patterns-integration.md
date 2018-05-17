@@ -2,7 +2,7 @@
 title: "Integration through Specification"
 date: 2018-05-09T11:22:54-07:00
 tags: ["iot", "anti-pattern"]
-draft: true
+draft: false
 ---
 
 Successful delivery of an IoT

@@ -1,7 +1,7 @@
 ---
 title: "Anti-Patterns for Internet of Things Applications"
 date: 2018-05-09T11:20:14-07:00
-draft: true
+draft: false
 tags: ["iot", "anti-pattern"]
 ---
 
